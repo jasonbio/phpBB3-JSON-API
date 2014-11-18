@@ -1,6 +1,6 @@
 <?php
 // Gets requested custom profile field for the user that's currently logged in and returns in JSON format
-// you must know the name of the custom field you're requested, e.g. pf_mycustom_field
+// you must know the progmatic name of the custom field you're requesting, e.g. pf_mycustom_field
 
 // start phpBB3 environment
 define('IN_PHPBB', true);
